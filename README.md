@@ -24,6 +24,16 @@ Configure user management for the website using Amazon Cognito.
 
 Create an AWS Lambda function that will persist data to an Amazon DynamoDB table.
 
-4. RESTful APIs: ([])
+4. RESTful APIs: ([https://github.com/georgeonalo/Serverless-Web-Application-4_RESTfulAPIs-])
 
+
+Expose the Lambda function via an Amazon API Gateway as a RESTful API that the static site can call.
+
+⚠️ These modules are intended to be executed linearly.
+
+After you have completed the workshop you can delete all of the resources that were created.
+
+### Next
+
+✅ Review and follow the directions in the setup guide: ([https://github.com/georgeonalo/Serverless-Web-Application-0_Setup-]), wherein you'll configure your AWS Cloud9 IDE and setup pre-requisites like an AWS Account.
 

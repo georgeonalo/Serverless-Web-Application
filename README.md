@@ -35,5 +35,5 @@ After you have completed the workshop you can delete all of the resources that w
 
 ### Next
 
-✅ Review and follow the directions in the setup guide: ([https://github.com/georgeonalo/Serverless-Web-Application-0_Setup-]), wherein you'll configure your AWS Cloud9 IDE and setup pre-requisites like an AWS Account.
+✅ Review and follow the directions in the [setup guide](https://github.com/georgeonalo/Serverless-Web-Application-0_Setup-), wherein you'll configure your AWS Cloud9 IDE and setup pre-requisites like an AWS Account.
 

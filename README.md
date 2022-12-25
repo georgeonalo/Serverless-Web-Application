@@ -12,19 +12,19 @@ See the diagram below for a depiction of the complete architecture.
 
 This workshop is divided into four modules. Each module describes a scenario of what we're going to build and step-by-step directions to help you implement the architecture and verify your work.
 
-1. Static web hosting: ([https://github.com/georgeonalo/Serverless-Web-Application-1_StaticWebHosting-])
+1. [Static web hosting](https://github.com/georgeonalo/Serverless-Web-Application-1_StaticWebHosting-)
 
 Deploy the static website using AWS Amplify Console by first creating a git repository (in either CodeCommit or GitHub) and then pushing the site code.
 
-2. User Management: ([https://github.com/georgeonalo/Serverless-Web-Application-2_UserManagement-])
+2. [User Management](https://github.com/georgeonalo/Serverless-Web-Application-2_UserManagement-)
 
 Configure user management for the website using Amazon Cognito.
 
-3. Serverless Backend: ([https://github.com/georgeonalo/Serverless-Web-Application-3_ServerlessBackend-])
+3. [Serverless Backend](https://github.com/georgeonalo/Serverless-Web-Application-3_ServerlessBackend-)
 
 Create an AWS Lambda function that will persist data to an Amazon DynamoDB table.
 
-4. RESTful APIs: ([https://github.com/georgeonalo/Serverless-Web-Application-4_RESTfulAPIs-])
+4. [RESTful APIs](https://github.com/georgeonalo/Serverless-Web-Application-4_RESTfulAPIs-)
 
 
 Expose the Lambda function via an Amazon API Gateway as a RESTful API that the static site can call.
